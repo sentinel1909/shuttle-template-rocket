@@ -2,7 +2,7 @@
 
 // integration test for the route at /
 #[cfg(test)]
-mod integration_tests {
+mod endpoint_tests {
     use rocket::http::Status;
     use rocket::local::blocking::Client;
     use shuttle_template_rocket::router::create;

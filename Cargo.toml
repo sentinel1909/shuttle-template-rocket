@@ -1,7 +1,14 @@
 [package]
 name = "shuttle-template-rocket"
-version = "0.1.0"
+version = "1.0.0"
 edition = "2021"
+description = "Template for building a Shuttle application using Rocket"
+readme = "README.md"
+authors = ["Jeffery D. Mitchell", "<sentinel1909@jeff-mitchell.dev"]
+repository = "https://github.com/sentinel1909/shuttle-template-rocket"
+license = 'MIT'
+keywords = ["rocket, shuttle"]
+publish = false
 
 [[bin]]
 name = "shuttle-template-rocket"
