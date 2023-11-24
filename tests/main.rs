@@ -1,3 +1,3 @@
 // tests/main.rs
 
-mod endpoints;
+// build any integration tests here
